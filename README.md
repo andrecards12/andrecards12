@@ -2,7 +2,7 @@
 
 # Olá, eu sou André Cardoso 👋
 
-### Software, inteligência artificial e automação para problemas reais
+### Bacharel em Direito, vibe coder e criador de soluções com IA
 
 [![GitHub](https://img.shields.io/badge/GitHub-andrecards12-181717?style=for-the-badge&logo=github)](https://github.com/andrecards12)
 ![Profile views](https://komarev.com/ghpvc/?username=andrecards12&style=for-the-badge&color=0e75b6)
@@ -11,8 +11,9 @@
 
 ## Sobre mim
 
-- 💻 Desenvolvo aplicações web modernas e ferramentas locais orientadas por IA.
-- ⚖️ Crio soluções para legaltech, educação jurídica, segurança e autenticação.
+- ⚖️ Sou bacharel em Direito e aplico tecnologia a problemas do universo jurídico.
+- 💻 Como vibe coder, transformo ideias em aplicações e ferramentas orientadas por IA.
+- 🧠 Uno conhecimento jurídico, criatividade e experimentação tecnológica.
 - 🤖 Trabalho com LLMs, voz, automação e integrações inteligentes.
 - 🔐 Valorizo privacidade, segurança, usabilidade e execução local.
 - 🚀 Transformo ideias em produtos funcionais, do backend à interface.
