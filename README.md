@@ -48,7 +48,7 @@
 ## Estatísticas
 
 <div align="center">
-  <img height="170" alt="Estatísticas do GitHub de André Cardoso" src="https://github-readme-stats.vercel.app/api?username=andrecards12&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true" />
+  <img height="170" alt="Estatísticas do GitHub de André Cardoso" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrecards12&theme=tokyonight" />
   <img height="170" alt="Sequência de contribuições de André Cardoso" src="https://streak-stats.demolab.com?user=andrecards12&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
 
